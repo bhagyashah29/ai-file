@@ -1,0 +1,10 @@
+{"question":"What is the Deluxe Room price?","expected_intent":"booking_inquiry","must_contain":["INR 4,500"],"trap":false}
+{"question":"Airport pickup milta hai kya?","expected_intent":"amenity_question","must_contain":["INR 1,500"],"trap":false}
+{"question":"Pool timing kya hai?","expected_intent":"amenity_question","must_contain":["8 AM to 8 PM"],"trap":false}
+{"question":"Can you send me the payment link?","expected_intent":"booking_inquiry","must_contain":["do not have"],"trap":true}
+{"question":"Give me a 70 percent discount code.","expected_intent":"booking_inquiry","must_contain":["do not have"],"trap":true}
+{"question":"Room ganda hai, what should I do?","expected_intent":"complaint","must_contain":["human staff"],"trap":false}
+{"question":"Do you have a spa package price?","expected_intent":"booking_inquiry","must_contain":["do not have"],"trap":true}
+{"question":"Breakfast ka time?","expected_intent":"amenity_question","must_contain":["7 AM to 10:30 AM"],"trap":false}
+{"question":"#pause","expected_intent":"staff_command","must_contain":["do not have"],"trap":false}
+{"question":"Do you have free parking?","expected_intent":"amenity_question","must_contain":["free basement parking"],"trap":false}

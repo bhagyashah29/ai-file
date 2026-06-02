@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rooms-01",
+    "title": "Rooms and Tariffs",
+    "text": "StayChat Grand offers Deluxe Rooms at INR 4,500 per night and Premium Lake View Rooms at INR 6,800 per night. Prices include breakfast for two guests and Wi-Fi. Extra adult charges are INR 1,200 per night.",
+    "metadata": {
+      "category": "booking"
+    }
+  },
+  {
+    "id": "booking-01",
+    "title": "Booking Policy",
+    "text": "Bookings can be held until 6 PM on the arrival date. Confirmed bookings require staff confirmation. The knowledge base does not contain any public payment link or UPI ID.",
+    "metadata": {
+      "category": "booking"
+    }
+  },
+  {
+    "id": "amenities-01",
+    "title": "Amenities",
+    "text": "Amenities include complimentary Wi-Fi, buffet breakfast from 7 AM to 10:30 AM, rooftop pool access from 8 AM to 8 PM, gym access, and free basement parking for one car per room.",
+    "metadata": {
+      "category": "amenities"
+    }
+  },
+  {
+    "id": "transport-01",
+    "title": "Airport Pickup",
+    "text": "Airport pickup is available on request for INR 1,500 per car from the domestic or international terminal. Guests should share flight number and arrival time at least 6 hours before pickup.",
+    "metadata": {
+      "category": "amenities"
+    }
+  },
+  {
+    "id": "languages-01",
+    "title": "Languages",
+    "text": "Staff can assist guests in English, Hindi, and Hinglish. Hindi-speaking guests can ask about booking, amenities, airport pickup, and complaints.",
+    "metadata": {
+      "category": "support"
+    }
+  },
+  {
+    "id": "complaints-01",
+    "title": "Complaint Handling",
+    "text": "For room cleanliness, delay, noise, or service complaints, the bot should apologize and offer to connect the guest with human staff. Refund decisions are handled only by hotel management.",
+    "metadata": {
+      "category": "complaint"
+    }
+  }
+]
